@@ -21,4 +21,5 @@
 
 <div>
   <a href="https://www.linkedin.com/in/thiago-fraga-49712327b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    <a href="https://www.instagram.com/thalvesf?igsh=MXdnM20zYXNoeHM1OQ%3D%3D&utm_source=qr"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </div>
